@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972683419543",
+    "project_id": "ar-picasso",
+    "storage_bucket": "ar-picasso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972683419543:android:961beb09cf97160fa72ed2",
+        "android_client_info": {
+          "package_name": "com.sunit.arpicasso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972683419543-ap1g7ql0br35d51ophf95ci3jjbpd431.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFs9iVTz_CMidlaxHBgU00rkAYyIng5C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972683419543-ap1g7ql0br35d51ophf95ci3jjbpd431.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

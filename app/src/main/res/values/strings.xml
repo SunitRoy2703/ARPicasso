@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">AR Picasso</string>
+
+    <string name="content_description_record">Record</string>
+    <string name="content_description_stop_recording">Stop Recording</string>
+    <string name="start_recording_failed">recording failed!</string>
+
+
+    <string name="content_description_undo">Undo</string>
+    <string name="content_description_join_friend">Open Join Friend Menu</string>
+    <string name="content_description_close_join_friend_menu">Close Join Friend Menu</string>
+    <string name="content_description_disconnect_from_friend">Disconnect</string>
+    <string name="content_description_share_video">Share Video</string>
+    <string name="content_description_save_video">Save Video</string>
+    <string name="content_description_back">Back to Drawing</string>
+    <string name="content_description_overflow_menu">More options</string>
+
+    <string name="playback_share">Share</string>
+    <string name="playback_save">Save</string>
+    <string name="playback_share_text">#AR Picasso</string>
+
+    <string name="share_with">Share with</string>
+
+    <string name="title_activity_permissions">Permissions Required</string>
+    <string name="initial_permissions_required">Camera and audio permissions are required</string>
+    <string name="ask_me_again">Try again</string>
+    <string name="open_system_permissions">Open System Permissions</string>
+    <string name="storage_permission_rationale">We need storage permission to save your video</string>
+    <string name="ok">OK</string>
+    <string name="action_unavailable">Action unavailable</string>
+
+    <string name="saved">Saved to %1$s directory</string>
+    <string name="could_not_save">Sorry, we couldn\'t save your video</string>
+    <string name="Picture_Saved">Picture Saved!</string>
+    <string name="image_jpeg">image/jpeg</string>
+    <string name="ShareTo">Share to...</string>
+    <string name="ShareMessage">#ARPicasso</string>
+
+    <string name="menu_about">About</string>
+    <string name="menu_share_app">Share App</string>
+
+</resources>

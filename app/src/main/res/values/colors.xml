@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="active">@android:color/holo_blue_dark</color>
+    <color name="gray">@android:color/darker_gray</color>
+    <color name="record_highlight">#fc0f1c</color>
+
+    <color name="ripple">#bbffffff</color>
+
+    <color name="bg_pair_view">@color/black_30</color>
+    <color name="bg_pair_tool_tip">@color/black_50</color>
+
+    <color name="black_30">#4D000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_70">#B3000000</color>
+    <color name="black_75">#BF000000</color>
+
+
+    <color name="menu_bg_semi_transparent">@color/black_75</color>
+    <color name="menu_line_semi_transparent_grey">#33E0E0E0</color>
+</resources>
